@@ -1,1 +1,10 @@
-{}
+[
+  {
+    "key": "deneme123",
+    "expiresAt": "2025-06-30T23:59:59Z",
+    "used": false,
+    "deviceId": "",
+    "usageLimit": 1,
+    "usageCount": 0
+  }
+]
